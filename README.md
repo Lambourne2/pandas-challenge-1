@@ -43,17 +43,6 @@ This project focuses on exploring, transforming, and analyzing a dataset while c
 
 ---
 
-### Getting Started
+### Summary of my findings:
 
-1. Clone the repository.
-2. Install required Python libraries using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook file for the project and follow the step-by-step instructions for each part of the analysis.
-
-### Notes
-
-- Ensure all calculations and transformations are properly logged for reproducibility.
-- Use appropriate visualizations where applicable to support the analysis.
-- Validate all results thoroughly to meet the requirements specified.
-
-Happy analyzing!
-
+My analysis revealed that "our" top client generated a profit exceeding ten times that of the next highest client. Additionally, the revenue exhibited a gradual decline across the remaining clients. Overall very interesting and a fun challenge!
